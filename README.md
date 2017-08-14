@@ -32,33 +32,7 @@ Front Camera | 2MP, Int. 5MP
 # Build Information
 
 ## Working
- * Adjustable brightness
- * All sensors
- * Audio
- * Audio over Bluetooth (music, calls .etc)
- * Auto brightness
- * Bluetooth
- * Camera rear/front (Photographs)
- * Camera rear/front (Video - [Use Camu from Play Store](https://play.google.com/store/apps/details?id=com.sumoing.camu))
- * Doze
- * Enforcing SELinux
- * Flashlight (statusbar and camera)
- * Fingerprint
- * GPS
- * Hardware acceleration
- * Micro SD support
- * MTP and Mass Storage modes
- * Offline charging
- * Operator name
- * RAM and ROM
- * RIL
- * Rotation
- * Screenrecorder
- * USB OTG
- * Vibration
- * Video playback
- * Wi-Fi
- * Wi-Fi tethering
+ I have not build I'm going to build. 
 
 ## Broken/Bugs
  * HDR
