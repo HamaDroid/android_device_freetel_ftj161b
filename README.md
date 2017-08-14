@@ -7,7 +7,7 @@ This branch is device for building of the LineageOS 14.1 and Android Nougat 7.1.
 
 # About Device
 
-![Ulefone Metal](http://ulefone.com/images/metal/buy/metal-buy.jpg "Ulefone Metal")
+![Ulefone Metal](https://www.freetel.jp/product/smartphone/rei/assets/img/gallery/pic_gallery_products01.jpg "samurai rei")
 
 
 ## Specifications
