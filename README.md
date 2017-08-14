@@ -11,6 +11,8 @@ This branch is device for building of the LineageOS 14.1 and Android Nougat 7.1.
 ![Freetel samurai rei](https://www.freetel.jp/product/smartphone/rei/assets/img/gallery/pic_gallery_products01.jpg "samurai rei Front")
 ![Freetel samurai rei](https://www.freetel.jp/product/smartphone/rei/assets/img/gallery/pic_gallery_products02.jpg "samurai rei Rear")
 
+# OEM manifecture
+Shenzhen toro-tech  http://jp.made-in-china.com/co_thomas8072/
 
 
 ## Specifications
