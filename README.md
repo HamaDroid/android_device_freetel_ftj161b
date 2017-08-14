@@ -16,13 +16,13 @@ Component Type | Details
 -------:|:-------------------------
 CPU     | 1.3GHz Octa-Core MT6753
 GPU     | Mali-T720
-Memory  | 3GB RAM
+Memory  | 2GB RAM
 Shipped Android Version | 6.0.1
-Storage | 16GB
-Battery | 3050 mAh
-Display | 5.0" 1280 x 720 px DPI 480
-Rear Camera | 8MP, Int.13MP (Sony IMX149 Exmor RS)
-Front Camera | 2MP, Int. 5MP (OV)
+Storage | 32GB
+Battery | 2800 mAh
+Display | 5.2" 1920 x 1080 px DPI 480
+Rear Camera | 8MP, Int.13MP 
+Front Camera | 2MP, Int. 5MP 
 
 ---
 
@@ -79,3 +79,5 @@ Front Camera | 2MP, Int. 5MP (OV)
  * DeckerSU
  * Daniel HK
  * MohanCM
+ * Ritan
+ 
