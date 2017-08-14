@@ -32,7 +32,8 @@ Front Camera | 2MP, Int. 5MP
 # Build Information
 
 ## Working
- I have not build I'm going to build. 
+ I have not build.
+ I'm going to build. 
 
 ## Broken/Bugs
  * HDR
