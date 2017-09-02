@@ -26,8 +26,8 @@ Shipped Android Version | 6.0.1
 Storage | 32GB
 Battery | 2800 mAh
 Display | 5.2" 1920 x 1080 px DPI 480
-Rear Camera | 8MP, Int.13MP 
-Front Camera | 2MP, Int. 5MP 
+Rear Camera | 13MP
+Front Camera | 2MP CMOSsensor OV
 
 ---
 
