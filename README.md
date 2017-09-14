@@ -34,7 +34,7 @@ Front Camera | 2MP CMOSsensor OV
 # Build Information
 
 ## Working
- I have not build.
+ I still not build.
  I'm going to build. 
 
 ## Broken/Bugs
